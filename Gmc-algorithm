@@ -1,0 +1,13 @@
+
+// Read the input sentence.
+
+// Initialize three counters: length to 0, wordCount to 0, and vowelCount to 0.
+
+// Iterate over each character in the sentence from the first character to the last character (excluding the point).
+
+// For each character:
+
+// Increment the length counter by 1.
+// If the character is a letter (a-z or A-Z), check if it is a vowel (a, e, i, o, u, both lowercase and uppercase). If it is, increment the vowelCount counter by 1.
+// If the character is a space, increment the wordCount counter by 1.
+// Output the values of length, wordCount, and vowelCount.
